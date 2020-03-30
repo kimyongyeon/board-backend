@@ -29,3 +29,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.mvn
+board.iml
+HELP.md
+mvnw
+mvnw.cmd
